@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                             Python Developer | Backend Developer | FastAPI Enthusiast
 🔭 I'm currently learning  Docker, REST API Best Practices, and AWS <br>🌱I'm currently Working on Python, FastAPI & MySQL Projects<br>👯 I'm looking to collaborate on Open Source Python & FastAPI Projects<br>💬Ask me about Python, FastAPI, SQL, HTML, CSS, JavaScript<br>⚡Fun Fact: I enjoy solving backend problems and turning ideas into real-world applications.
 
 
