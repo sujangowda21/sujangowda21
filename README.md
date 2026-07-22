@@ -1,8 +1,7 @@
-                            Hi 👋, I'm Sujan A Gowda
-Python Developer | Backend Developer | FastAPI Enthusiast
-
-💻 Passionate about building scalable backend applications using Python and FastAP
-🔭 I'm currently learning  Docker, REST API Best Practices, and AWS <br>🌱I'm currently Working on Python, FastAPI & MySQL Projects<br>👯 I'm looking to collaborate on Open Source Python & FastAPI Projects<br>💬Ask me about Python, FastAPI, SQL, HTML, CSS, JavaScript<br>⚡Fun Fact: I enjoy solving backend problems and turning ideas into real-world applications.
+<h1 align="center">Hi 👋, I'm Sujan A Gowda</h1>
+                  
+<h4 align="center"><i>A Passionate abount backend applications using Python and FastAPI</i></h4>
+<li>🔭 I'm currently learning  Docker, REST API Best Practices, and AWS</li> <br><li>🌱I'm currently Working on Python, FastAPI & MySQL Projects</li><br><li>👯 I'm looking to collaborate on Open Source Python & FastAPI Projects</li><br><li>💬Ask me about Python, FastAPI, SQL, HTML, CSS, JavaScript</li><br><li>Fun Fact: I enjoy solving backend problems and turning ideas into real-world applications.</li>
 
 
 ## 🌐 Socials:
